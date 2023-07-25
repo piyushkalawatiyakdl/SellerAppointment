@@ -1,0 +1,26 @@
+body {
+    font-family:'Times New Roman', Times, serif, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input,
+  select,
+  button {
+    margin: 5px;
+  }
+  
+  #productList {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+
+
+  
